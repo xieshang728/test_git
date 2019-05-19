@@ -1,4 +1,11 @@
 hello world
 hello java
 hello python
-
+hello c++
+hello golang
+hello php
+hello ruby
+hello c
+hello basic
+hello rust
+hello lua
